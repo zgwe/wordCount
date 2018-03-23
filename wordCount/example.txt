@@ -1,0 +1,4 @@
+example.txt,字符数:79
+example.txt,单词数:10
+example.txt,行数:4
+example.txt,代码行/空行/注释行:4,0,0
